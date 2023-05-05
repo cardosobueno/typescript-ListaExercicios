@@ -1,5 +1,10 @@
 export { }
 
+/*Refaça o ex passado, mas agora inclua o dado altura em pessoa 
+e mostre também 
+- a quantidade de pessoas Jovens (15 - 29 anos)
+- a PORCENTAGEM de pessoas Jovens acima de 1.70
+- a quantidade de pessoas com menos de 1.70*/
 
 class Pessoa {
     peso: number;

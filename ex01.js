@@ -1,5 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+/*Faça um algoritmo que receba a idade de N pessoas,
+ onde cada recebe um peso e idade, depois mostre a média de idades e
+ a quantidade de pessoas que pesam mais de 90 quilos*/
 var Pessoa = /** @class */ (function () {
     function Pessoa(peso, idade) {
         this.peso = peso;

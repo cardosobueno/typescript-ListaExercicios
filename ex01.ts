@@ -1,5 +1,10 @@
 export {}
 
+/*Faça um algoritmo que receba a idade de N pessoas, 
+ onde cada recebe um peso e idade, depois mostre a média de idades e
+ a quantidade de pessoas que pesam mais de 90 quilos*/
+
+
 class Pessoa {
     peso: number;
     idade: number;

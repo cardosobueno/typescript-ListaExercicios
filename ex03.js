@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+//Faça um algoritmo que gere numeros aleatorios e some apenas aqueles que forem pares
 var nums;
 nums = [];
 var somaPares = 0;
