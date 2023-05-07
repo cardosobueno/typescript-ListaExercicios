@@ -1,7 +1,1 @@
-*.js linguist-detectable=false
-.js linguist-detectable=false
-*.js linguist-vendored
-
-*.js linguist-detectable=false,
-.js linguist-detectable=false,
-*.js linguist-vendored,
+*.js linguist-language=TypeScript
